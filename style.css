@@ -49,6 +49,7 @@ body {
     justify-content: space-between;
     margin: 20px 0 10px;
     cursor: pointer;
+    
 }
 
 .according .according-container .quistion:hover span {
@@ -70,6 +71,7 @@ body {
     color: var(--clr-grayish-purple);
     overflow: hidden;
     height: 0;
+    transition: .3s ;
 }
 
 /* JavaScript Styling */
